@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <!-- DC Social Icons CSS -->
+    <link rel="stylesheet" type="text/css" href="http://www.dreamtemplate.com/dreamcodes/social_icons/tsc_social_icons.css" />
+
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    
+    <link rel="stylesheet" href="myweb_index.css">
+    
+    <meta charset="UTF-8">
+    
+    <title> Joshua Uwaifo </title>
+    
+</head>
+<body>
+
+
+
+    <div class="nav-menu">
+	
+	    <div class="container">
+
+		<ul class="nav nav-pills pull-left">
+		    
+			<a href="#mainspectacle"> <img src="profilepic.jpg" width="27px" class="img-circle" alt="logo, image of owner"> </a>
+
+		</ul>
+	    
+		<ul class="nav nav-pills pull-right">
+		    
+		    <li><a href="#about-me">about me</a></li>
+		    
+		    <li><a href="#portfolio">portfolio</a></li>
+		    
+		    <li><a href="#contact-me">contact me</a></li>
+		    
+		</ul>
+		
+	    </div>
+	    
+	</div>
+
+	<div class="containerspec">
+	
+	    <div class="row">
+		
+		<div class="col-md-12">
+		
+		<p>
+		
+		    <h1>&nbsp;</h1>
+		    <h1>&nbsp;</h1>
+		
+		</p>
+		
+		</div>
+
+	    </div>
+	    
+	</div>	
+
+	<div id="mainspectacle">
+
+	  <div class="container">
+	  
+	      <div class="row">
+
+		  <div class="col-md-2"></div>
+	      
+		  <div class="col-md-8">
+
+		  
+		  
+		    <p>
+			<h1 class="welcome">
+		
+			<div class="element"></div>
+
+			<p>JOSHUA UWAIFO</p>
+			<p>WELCOMES YOU</p>
+			<p>TO HIS SEGMENT OF THE WEB</p>
+			<p>EXPL<span><img src="profilepic.jpg" class="img-circle" width="150px" alt="logo, image of owner"></span>RE
+			
+			</h1>
+		    </p>
+
+		  </div>
+		  
+		  <div class="col-md-2"></div>
+		  
+	      </div>
+	      
+	    </div>
+	
+	</div>
+	
+	
+	<div class="containerspec">
+	
+	    <div class="row">
+		
+		<div class="col-md-12">
+		
+		<p>
+		
+
+		    <h1>&nbsp;</h1>
+		    <h1>&nbsp;</h1>
+		    <h1>&nbsp;</h1>
+		    <h1>&nbsp;</h1>
+		
+		</p>
+		
+		</div>
+
+	    </div>
+	    
+	</div>
+
+	<div id="about-me">
+	
+	    <div class="container">
+	    
+		<div class="row">
+
+		    <div class="col-md-3"></div>
+		
+		    <div class="col-md-6">
+			
+			<h2 class="blueHeading"> About Me </h2>
+			
+			<p>
+			
+			<p>Hello, by now you know that I am <span class="orangeBold">Joshua Uwaifo</span>.</p>
+			
+			<p>I am a BSc Discrete Mathematics student, in other words,</p> 
+			
+			<p>I study <span class="orangeBold">Computer Science</span> and <span class="orangeBold">Mathematics</span>. </p>
+			
+			<p> I am fascinated by all things <span class="orangeBold">technology, lyricism and Christ-related</span>. </p>
+			
+			<h2>&nbsp;</h2>
+			<h2>&nbsp;</h2>
+
+		
+			
+<!--			<p>			
+			
+			    Computer Science encouragement
+			    Encouraging coding/web dev etc to people that visit the site ie 
+			    "You are a Star",
+			    "Coding requires two thing
+			    just do it and be consistent
+			    And then truly the sky is the limit
+			    "
+			</p>-->
+
+		    </div>
+		    
+		    <div class="col-md-3"></div>
+		    
+		</div>
+		<div class="intro">
+		<div class="container">
+		<div class="row">
+
+		    <div class="col-md-4">
+		    
+		    <p class="compsci"> 
+		    <p> &nbsp; </p>
+		    "<span class="orangeBold">Coding</span> requires two things;
+		    just <span class="orangeBold">do it</span> and <span class="orangeBold">be consistent</span>.
+		    Then, truly, the sky is the limit"
+		    </p>
+		    <p> &nbsp; </p>
+		    </div>
+		    
+		    
+		
+		    <div class="col-md-4">
+		    
+			<p class="lyrics">
+			<p>"Bible encourages weather the <span class="orangeBold">storm</span>/</p>
+			<p>removing yourself from the equation is when true love has begun/</p>
+			<p>acting like <span class="orangeBold">1 in the math</span> reintroduces the storm/</p>
+			<p>cause you ain't the <span class="orangeBold">X-men</span> with differentiation you gone/"</p>
+			<p> &nbsp; </p>
+			<p class="name-lyrics"> -Moi-</p>
+			</p>		    
+			<p> &nbsp; </p>
+		    </div>
+		    
+		    
+		    
+		    <div class="col-md-4">
+		    
+			<p class="bible">
+			<p> &nbsp; </p>
+			<p> &nbsp; </p>
+			<p>"Keep shining, it's all <span class="orangeBold">love and grace</span>"</p>
+			</p>		    		    
+			<p> &nbsp; </p>
+		    
+		    </div>
+		    
+		 </div>
+
+		
+<!--		<div class="row">
+
+		    <div class="col-md-3"></div>
+		
+		    <div class="col-md-6">
+				    
+			<p>	
+			
+			    Biblical words of wisdom and encouragement
+			    ie
+			    "You have greatness within you, it just takes time"
+
+			</p>
+
+
+		    </div>
+		    
+		    <div class="col-md-3"></div>
+		    
+		</div>-->
+		
+<!--		<div class="row">
+
+		    <div class="col-md-3"></div>
+		
+		    <div class="col-md-6">
+				    
+			<p>	
+			
+			
+			    Started on the 7th of June 2015			
+			    
+			    Star background at the start
+			    
+			    Colour scheme: Black, white, greyscale to colour
+			    Twitter Bootstrap
+			    
+			    Use javascript to make the page animated etc.
+			    
+			    MULTIPLES OF 3 items
+			    
+			</p>
+
+		    </div>
+		    
+		    <div class="col-md-3"></div>
+		    
+		
+		</div>-->
+	    
+	    </div>
+	
+	</div>
+	
+	
+	<div class="containermain2">
+	
+	    <div class="row">
+		
+		
+		
+		<p>
+		
+		    <h1>&nbsp;</h1>
+		    <h1>&nbsp;</h1>
+		
+		</p>
+		
+		
+
+	    </div>
+	    
+	</div>    
+
+
+	<div id="portfolio">
+	
+	    <div class="container">
+	    
+		<div class="row">
+		
+		    <div class="col-md-3"></div>				
+
+
+		    <div class="col-md-6">
+		    
+			<h2 class="blueHeading"> Portfolio </h2>
+			
+			<p>
+			
+			<p>I created this website to showcase some of the things that I have done in life.</p>
+			
+			<h2>&nbsp;</h2>
+			
+			<p>Check below to see other things that I have done...</p> 
+			
+			<h2>&nbsp;</h2>
+			<h2>&nbsp;</h2>
+
+			<div class="row">
+			      
+			    <div class="col-md-3">
+			    
+				  <div class="thumbnail">
+				      
+				      <img src="..." alt="portfolio">
+				      
+				  </div>		
+					    
+			    </div>
+
+
+			    <div class="col-md-6">
+			    
+				  <div class="thumbnail">
+				      
+				      <img src="..." alt="portfolio">
+				      
+				  </div>		
+					    
+			    </div>
+
+
+			    <div class="col-md-3">
+			    
+				  <div class="thumbnail">
+				      
+				      <img src="..." alt="portfolio">
+				      
+				  </div>		
+			    
+			    </div>
+
+			</div>		    
+
+			
+			<p>Click the left and right arrows</p>
+			
+			
+			<h4> View my resume: </h4>
+			
+			<h6> General </h6>
+			
+			<h6> Technical </h6>
+<!--			
+			
+
+			
+			
+			<p>
+			
+			    Black/Black starry space is the background generally
+			    
+			    Greyscale for parts that have colour
+			    
+			    Black or greyscale background
+			    
+			    Use javascript to go through parts
+			    
+			    multiples of 3
+			    
+			    (i)Portfolio section
+			    (multiples of 3)Image that describes each portfolio/projects
+			    
+			    (ii)Work section:	Education and Job as Tutor
+			    
+			    (iii)Resume section:
+			    view and download resume
+
+			    arrows left and right with dots going between each part 
+			    
+			</p>		-->
+		    
+		    </div>
+		    
+		    <div class="col-md-3"></div>				
+		    
+		</div>
+		    
+	    
+	    </div>
+	
+	</div>
+	
+	<div class="containermain">
+	
+	    <div class="row">
+		
+	
+		
+		<p>
+		
+		    <h1>&nbsp;</h1>
+		    <h1>&nbsp;</h1>
+		    <h1>&nbsp;</h1>
+		
+		</p>
+		
+	
+
+	    </div>
+	    
+	</div>    
+
+
+	<div id="contact-me">
+	
+	    <div class="container">
+	    
+		<div class="row">
+		
+		    <h2 class="blueHeading"> Contact Me / Services </h2>
+		    
+			<p> &nbsp; </p>	
+		
+		    <div class="col-md-4">
+		    
+			<p> &nbsp; </p>
+			
+			<p>
+			
+			    <p class="blueHeading">Tutor in Mathematics</p>
+			    			
+			    <p> &nbsp; </p>	
+			    
+			    <p> This relates to all levels <span class="orangeBold">up to and including IB/ A levels</span> and some <span class="orangeBold">select first year University modules</span>.</p>
+			    
+			    <p>For more details regarding tutoring, feel free to contact me below.</p>			    
+			    
+			    <p><span class="blueHeading">Code:</span> <span class="orangeBold">tutor</span></p>
+			    
+			</p>
+			
+			<p> &nbsp; </p>
+			<p> &nbsp; </p>			    
+		    
+			<p>
+			    
+			    <!--multiples of 3
+			    
+			    Split into segments 			-->
+			
+		    </div>
+		
+		
+		    <div class="col-md-4">		
+		    
+		    
+			    <p class="blueHeading">Creation of personalised websites</p>
+			    
+			    <p>This should take at most a month during term time and considerably less during holiday seasons.</p>
+			    
+			    <p>Quote at £550 pounds for 3 years hosting, set up and queries regarding website.</p>
+			    
+			    <p>For more details, feel free to contact me below.</p>
+			    
+			    <p><span class="blueHeading">Code:</span> <span class="orangeBold">persWeb</span></p>
+			    
+			</p>
+			
+			<p> &nbsp; </p>
+			<p> &nbsp; </p>		    
+		    
+			
+			
+		    </div>
+
+		    
+		    <div class="col-md-4">		
+		    
+			<p> &nbsp; </p>
+
+			
+			<p>
+
+			    <p class="blueHeading">Advice on learning specific TECH skills</p>
+			    
+			    <p> &nbsp; </p>				    
+			    
+			    <p>This relates to getting tips on how to <span class="orangeBold">approach learning to code among other technology related skills</span>, if I can help.</p>
+			    
+			    <p>For more information regarding this, feel free to contact me below.</p>
+			    
+			    <p><span class="blueHeading">Code:</span> <span class="orangeBold">learn</span></p>
+			    
+			</p>
+			
+			<p> &nbsp; </p>
+			<p> &nbsp; </p>			
+			
+		    </div>
+		    
+		</div>
+		    
+		<div class="row">
+
+		    <div class="col-md-4"></div>
+		
+		
+		    <div class="col-md-4">
+		    
+			<p>
+			    <!--respond with a fact about HTML, CSS, javaScript/jquery -->
+			    
+			</p>
+			<div id="statusBox">
+			<div class="container1">
+			  <form>
+			    <div class="special">
+			      <div class="form-group">
+				  <textarea class="form-control status-box" rows="1" placeholder="Code?"></textarea>
+				</div>
+				<div class="form-group">
+				  <textarea class="form-control status-box" rows="1" placeholder="E-mail address?"></textarea>
+				</div>
+			    </div>
+			    <div class="form-group">
+			      <textarea class="form-control status-box" rows="10" placeholder="Enter your message here, hopefully I can help :)"></textarea>
+			    </div>
+			  </form>
+			  <div class="button-group pull-right">
+			    <p class="counter">500</p>
+			    <a href="#statusBox" class="btn btn-primary">Send</a>
+			  </div>
+			
+			  <ul class="posts">
+			  </ul>
+			</div>	
+			
+			</div>
+
+		    </div>
+		    
+		    
+		    <div class="col-md-4"></div>
+		    
+		</div>
+
+	    </div>
+	    
+	</div>
+	
+	<div class="containerspec">
+	
+	    <div class="row">
+		
+		<div class="col-md-12">
+		
+		<p>
+		
+		    <h1>&nbsp;</h1>
+		
+		</p>
+		
+		</div>
+
+	    </div>
+	    
+	</div>    
+
+
+	<div class="footer">
+	
+	    <div class="container">
+	    
+		<div class="row">
+		
+		    <div class="col-md-4"></div>
+		    
+		
+		    <div class="col-md-4">			    
+			
+			<div class="social-link">
+			    
+			    <a class="facebook_cube3d tsc_social_cube64" title="facebook" href="https://www.facebook.com/joshua.oj.uwaifo">facebook</a>
+			    
+			    <a class="in_cube3d tsc_social_cube64" title="linkedin" href="https://uk.linkedin.com/in/joshuauwaifo">in</a>
+			    
+			    <a class="google_cube3d tsc_social_cube64" title="google" href="https://plus.google.com/108880853509161043299/about/p/pub">google</a>
+			    
+			</div>		    
+			
+			<p class="grace">"Grace and Peace"</p>
+			
+			<p class="copywright">    © Joshua Uwaifo. All rights reserved. </p>
+					    
+				    
+		    </div>
+		    
+		    
+		    <div class="col-md-4"></div>		
+
+		</div>
+	    
+	    </div>
+	    
+	</div>
+
+	<script src="myweb_index.js"></script>     
+     
+     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+
+			<script src="jquery-2.1.4.min.js"></script>
+		    	<script src="typed.js"></script>
+			<script>
+			    $(function(){
+				$(".element").typed({
+				strings: ["JOSHUA UWAIFO", "WELCOMES YOU", "TO HIS SEGMENT OF THE WEB", "EXPL+
+<span><img src="profilepic.jpg" class="img-circle" width="150px" alt="logo, image of owner"></span>+RE!!!"],
+				typeSpeed: 0	
+				});
+			    });
+			</script>	
+
+
+</body>
+</html>
